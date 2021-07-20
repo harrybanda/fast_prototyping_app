@@ -14,7 +14,7 @@
     "axios": "^0.19.2",
     "buffer": "^5.5.0",
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-camera": "^3.22.1",
     "react-native-dotenv": "^0.2.0"
   },
